@@ -7,11 +7,11 @@ If you are interested in our work, please do not hesitate to contact us at Sunyg
 
 
 
-%## 🎃 Results 
+## 🎃 Results 
 
-%### 1. Prediction Maps
+### 1. Prediction Maps
 
-%We offer the prediction maps of 
+We offer the prediction maps of 
 
 
 
