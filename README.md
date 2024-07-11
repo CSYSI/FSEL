@@ -1,4 +1,4 @@
-# [ECCV 2024] Frequency-Spatial Entanglement Learning for Camouffaged Object Detection
+# [ECCV 2024] Frequency-Spatial Entanglement Learning for Camouflaged Object Detection
 Yanguang Sun, Chunyan Xu, Jian Yang, Hanyu Xuan, Lei Luo<br />
 
 Our work has been accepted for ECCV 2024. The code is currently being organized and will be continuously updated.
