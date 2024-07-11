@@ -7,18 +7,6 @@ If you are interested in our work, please do not hesitate to contact us at Sunyg
 
 
 
-## 🎃 Results 
-
-### 1. Prediction Maps
-
-We offer the prediction maps of 
-
-
-
-
-
-
-
 
 ![image](https://github.com/CSYSI/FSEL/assets/171759588/88a36f96-6e5e-42eb-9e50-a4b464a0f63a)
 
