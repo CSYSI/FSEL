@@ -16,6 +16,8 @@ If you are interested in our work, please do not hesitate to contact us at Sunyg
 
 ## Prediction maps
 
+We provide the predicted results of the FSEL method in different backbones for tasks (i.e., camouflaged object detection, salient object detection, and polyp segmentation).
+
 FSEL-camouflaged object detection (COD) (PVT/ResNet/Res2Net) [[baidu](https://pan.baidu.com/s/1ogYw7NNCJLahYzBurhvnKw),PIN:u5sb] 
 
 FSEL-salient object detection (SOD) (PVT/ResNet) [[baidu](https://pan.baidu.com/s/1oVgPSDeibQ2HN9LNnzzPbw),PIN:pelf] 
