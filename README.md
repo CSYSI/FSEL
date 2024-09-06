@@ -12,6 +12,12 @@ If you are interested in our work, please do not hesitate to contact us at Sunyg
 
 ![image](https://github.com/CSYSI/FSEL/assets/171759588/a296b40d-2b15-49f1-8c05-bfa7de5e20ff)
 
+![image](https://github.com/user-attachments/assets/0f822fc0-5139-4ff5-b658-5539390ccc2b)
+
+![image](https://github.com/user-attachments/assets/9ec5764e-e5ae-4766-bbfa-d849a06f29af)
+
+
+
 
 
 ## Prediction maps
