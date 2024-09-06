@@ -28,7 +28,7 @@ FSEL-polyp segmentation (PS) (PVT/ResNet) [[baidu](https://pan.baidu.com/s/1x-ee
 
 ## Citation
 
-If you use FSEL method in your research or wish to refer to the baseline results published in the Model Zoo, please use the following BibTeX entry.
+If you use FSEL method in your research or wish to refer to the baseline results published in the Model, please use the following BibTeX entry.
 ```
 @article{sun2024frequency,
   title={Frequency-Spatial Entanglement Learning for Camouflaged Object Detection},
