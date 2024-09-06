@@ -15,5 +15,8 @@ If you are interested in our work, please do not hesitate to contact us at Sunyg
 
 
 ## Results
-FSEL-COD  [[baidu](https://pan.baidu.com/s/1InpTXqjo-ixHtXJm7d-e2g),PIN:txan] 
+FSEL-COD  
+
+
+FSEL-salient object detection (SOD)[[baidu](https://pan.baidu.com/s/1InpTXqjo-ixHtXJm7d-e2g),PIN:txan] 
 
