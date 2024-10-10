@@ -43,7 +43,7 @@ If you use FSEL method in your research or wish to refer to the baseline results
   author={Sun, Yanguang and Xu, Chunyan and Yang, Jian and Xuan, Hanyu and Luo, Lei},
   booktitle={European Conference on Computer Vision},
   year={2024},
-  pages={1--17},
+  pages={343--360},
 }
 ```
 
