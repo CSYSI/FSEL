@@ -6,6 +6,7 @@ Our work has been accepted for ECCV 2024. The code has already been open sourced
 If you are interested in our work, please do not hesitate to contact us at Sunyg@njust.edu.cn via email.
 
 
+![image](https://github.com/user-attachments/assets/15fb5bc4-1662-4b4b-aeec-e41d20be4828)
 
 ![image](https://github.com/CSYSI/FSEL/assets/171759588/88a36f96-6e5e-42eb-9e50-a4b464a0f63a)
 
