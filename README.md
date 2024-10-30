@@ -26,6 +26,15 @@ FSEL-salient object detection (SOD) (PVT/ResNet) [[baidu](https://pan.baidu.com/
 FSEL-polyp segmentation (PS) (PVT/ResNet) [[baidu](https://pan.baidu.com/s/1x-eeELRpKH1XZwvQGaPvAg),PIN:48bi] 
 
 
+## Training weights
+
+We provide the training weights of our FSEL model in COD tasks.
+
+FSEL-COD-weights (PVT/ResNet/Res2Net) [[baidu](https://pan.baidu.com/s/1D7nxuXxcF0RRCcVIZPp9Xg),PIN:u0mq] 
+
+
+
+
 ## Citation
 
 If you use FSEL method in your research or wish to refer to the baseline results published in the Model, please use the following BibTeX entry.
