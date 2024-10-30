@@ -29,6 +29,7 @@ FSEL-polyp segmentation (PS) (PVT/ResNet) [[baidu](https://pan.baidu.com/s/1x-ee
 ## Training weights
 
 We give the training weights of our FSEL model in COD tasks.
+
 Note that you should use the relevant network in the lib_initial file to test these .pth files
 
 FSEL-COD-weights (PVT/ResNet/Res2Net) [[baidu](https://pan.baidu.com/s/1D7nxuXxcF0RRCcVIZPp9Xg),PIN:u0mq] 
